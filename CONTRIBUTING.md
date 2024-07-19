@@ -5,6 +5,7 @@
 There are multiple ways of getting involved:
 
 - [Report a bug](#report-a-bug)
+- 
 - [Suggest a feature](#suggest-a-feature)
 - [Contribute code](#contribute-code)
 
